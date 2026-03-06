@@ -21,6 +21,13 @@
     git commit -m "first commit"
     git remote add origin https://github.com/Brijesh1990/ds-da-mwf-3pm.git
     git push -u origin main
-    
+
     ```
   
+# how to download github backup 
+
+  **commands**
+
+  ```
+  git clone https://github.com/Brijesh1990/ds-da-mwf-3pm.git
+  ```
